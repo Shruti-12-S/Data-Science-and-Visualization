@@ -8,9 +8,7 @@ These experiments focus on building strong fundamentals in **data analysis, visu
 
 🔬 **List of Experiments Covered:**
 
-1️⃣ **Introduction to Jupyter Notebook & Python Basics**
-
-• Setup using Anaconda
+1️⃣ **Python Basics**
 
 • Python programs on data types, loops, and functions
 
